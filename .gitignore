@@ -1,0 +1,11 @@
+dl/*
+!/dl/freetype-2.7.1.tar.bz2
+!/dl/attr-2.4.47.src.tar.gz
+!/dl/acl-2.2.52.src.tar.gz
+output
+.config
+.config.old
+.config.tmp
+..config.tmp
+
+
